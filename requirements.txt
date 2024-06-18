@@ -1,0 +1,16 @@
+jupyter
+selenium
+tqdm
+webdriver-manager
+llama-index
+sentence-transformers
+llama-index-embeddings-openai
+llama-index-embeddings-adapter
+llama-index-finetuning
+llama-index-readers-json
+python-dotenv
+openai
+llama-index-embeddings-huggingface
+llama-index-llms-lmstudio
+llama-index-llms-azure-openai
+datasets
